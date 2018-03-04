@@ -57,7 +57,7 @@ def main():
 
     res_future = actor_ref3.ask(
         {
-            'message' : MESSAGE['ACTOR2_REQUEST']
+            'message' : MESSAGE['ACTOR3_REQUEST']
         },
         block=False
     )
