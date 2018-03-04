@@ -1,12 +1,8 @@
 
 #!/bin/sh
 
-IMAGE_NAME="pykka-python python AkkaMain.py"
+IMAGE_NAME="pykka"
 shift
-
-if [ "${IMAGE_NAME}" = "" ]; then
-  exit 1
-fi
 
 docker run --rm -it \
   -v $(pwd):/usr/local/src/${IMAGE_NAME} \
