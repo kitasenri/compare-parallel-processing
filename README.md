@@ -4,5 +4,5 @@
  - Scala & Akka / Actor -> ×
  - Go / CSP -> ×
  - Elixir / Actor -> ×
- - Python / CSP -> ×
+ - Python / Pykka -> ○ 
  
