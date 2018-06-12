@@ -2,7 +2,7 @@
 
  - Java & Akka / Actor -> ○
  - Scala & Akka / Actor -> ×
- - Go / CSP -> ×
+ - Go / CSP -> ○
  - Elixir / Actor -> ×
  - Python / Pykka -> ○ 
  
